@@ -1,0 +1,24 @@
+{
+  "name": "lab-11-ejs",
+  "version": "1.0.0",
+  "description": "Number and name of feature: Lab 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shingoed/Lab-11-EJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shingoed/Lab-11-EJS/issues"
+  },
+  "homepage": "https://github.com/shingoed/Lab-11-EJS#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "superagent": "^5.1.2"
+  }
+}
